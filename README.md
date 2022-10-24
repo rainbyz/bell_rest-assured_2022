@@ -4,7 +4,7 @@
 1.	используя сервис https://reqres.in/, получить список пользователей со второй страницы,
 2.	убедиться, что имена файлов аватарок пользователей уникальны.
 
-*testNG, restAssured*
+*Java, testNG, restAssured*
 
 ## Задание 2.2
 
@@ -12,16 +12,16 @@
 1.	используя сервис https://reqres.in/, протестировать авторизацию пользователя в системе,
 2.	создать два теста: на успешный логин и логин с ошибкой из-за не введённого пароля.
 
-*testNG, restAssured*
+*Java, testNG, restAssured*
 
 ## Задание 2.3
 
 Задача: используя сервис https://reqres.in/, убедиться, что операция «LIST <RESOURCE>» возвращает данные, отсортированные по годам.
 
-*testNG, restAssured*
+*Java, testNG, restAssured*
 
 ## Задание 2.4
 
 Задача: используя сервис https://gateway.autodns.com/, убедиться, что количество тегов в теле ответа равно 14.
 
-*Jsoup, testNG, restAssured*
+*Java, Jsoup, testNG, restAssured*
